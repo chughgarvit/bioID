@@ -81,4 +81,4 @@ dependencies:
 
 After adding dependencies move to the project folder and run the command "flutter run".
 To generate the apk file of the app follow the below commands:
--flutter build apk --build-name=<ex:1.0> --buils-number=<ex:2>
+- flutter build apk --build-name=<ex:1.0> --buils-number=<ex:2>
