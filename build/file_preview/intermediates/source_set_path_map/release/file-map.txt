@@ -1,0 +1,13 @@
+com.gstory.file_preview-core-1.6.0-0 /home/pranith/.gradle/caches/transforms-3/1141b72fb8be4e566e7814849b1aa3a2/transformed/core-1.6.0/res
+com.gstory.file_preview-jetified-TbsFileSdk_base_armeabi_release_1.0.5.6000017.20230423093654-1 /home/pranith/.gradle/caches/transforms-3/3dc16396e2c72dc820449e184900f547/transformed/jetified-TbsFileSdk_base_armeabi_release_1.0.5.6000017.20230423093654/res
+com.gstory.file_preview-jetified-window-1.0.0-beta04-2 /home/pranith/.gradle/caches/transforms-3/40ff8c014bc3b03149787e1d45a42dea/transformed/jetified-window-1.0.0-beta04/res
+com.gstory.file_preview-jetified-annotation-experimental-1.1.0-3 /home/pranith/.gradle/caches/transforms-3/a6362f1fb79a6245a27920bb99ff99c3/transformed/jetified-annotation-experimental-1.1.0/res
+com.gstory.file_preview-jetified-window-java-1.0.0-beta04-4 /home/pranith/.gradle/caches/transforms-3/ed438543a8e9ffa856a2b095c92f0ea3/transformed/jetified-window-java-1.0.0-beta04/res
+com.gstory.file_preview-main-5 /home/pranith/.pub-cache/hosted/pub.dev/file_preview-1.1.6/android/src/main/res
+com.gstory.file_preview-release-6 /home/pranith/.pub-cache/hosted/pub.dev/file_preview-1.1.6/android/src/release/res
+com.gstory.file_preview-pngs-7 /home/pranith/Desktop/mpc project/mpc/build/file_preview/generated/res/pngs/release
+com.gstory.file_preview-resValues-8 /home/pranith/Desktop/mpc project/mpc/build/file_preview/generated/res/resValues/release
+com.gstory.file_preview-rs-9 /home/pranith/Desktop/mpc project/mpc/build/file_preview/generated/res/rs/release
+com.gstory.file_preview-mergeReleaseResources-10 /home/pranith/Desktop/mpc project/mpc/build/file_preview/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.gstory.file_preview-mergeReleaseResources-11 /home/pranith/Desktop/mpc project/mpc/build/file_preview/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.gstory.file_preview-merged_res-12 /home/pranith/Desktop/mpc project/mpc/build/file_preview/intermediates/merged_res/release

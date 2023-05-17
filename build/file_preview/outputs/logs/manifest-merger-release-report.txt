@@ -1,0 +1,39 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/pranith/.pub-cache/hosted/pub.dev/file_preview-1.1.6/android/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /home/pranith/.pub-cache/hosted/pub.dev/file_preview-1.1.6/android/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /home/pranith/.pub-cache/hosted/pub.dev/file_preview-1.1.6/android/src/main/AndroidManifest.xml:1:1-11:12
+	package
+		ADDED from /home/pranith/.pub-cache/hosted/pub.dev/file_preview-1.1.6/android/src/main/AndroidManifest.xml:2:3-36
+		INJECTED from /home/pranith/.pub-cache/hosted/pub.dev/file_preview-1.1.6/android/src/main/AndroidManifest.xml
+		INJECTED from /home/pranith/.pub-cache/hosted/pub.dev/file_preview-1.1.6/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/pranith/.pub-cache/hosted/pub.dev/file_preview-1.1.6/android/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /home/pranith/.pub-cache/hosted/pub.dev/file_preview-1.1.6/android/src/main/AndroidManifest.xml:3:5-10:19
+service#com.tencent.smtt.export.external.DexClassLoaderProviderService
+ADDED from /home/pranith/.pub-cache/hosted/pub.dev/file_preview-1.1.6/android/src/main/AndroidManifest.xml:4:9-8:19
+	android:process
+		ADDED from /home/pranith/.pub-cache/hosted/pub.dev/file_preview-1.1.6/android/src/main/AndroidManifest.xml:7:13-38
+	android:label
+		ADDED from /home/pranith/.pub-cache/hosted/pub.dev/file_preview-1.1.6/android/src/main/AndroidManifest.xml:6:13-35
+	android:name
+		ADDED from /home/pranith/.pub-cache/hosted/pub.dev/file_preview-1.1.6/android/src/main/AndroidManifest.xml:5:13-90
+activity#com.gstory.file_preview.X5WebviewActivity
+ADDED from /home/pranith/.pub-cache/hosted/pub.dev/file_preview-1.1.6/android/src/main/AndroidManifest.xml:9:9-54
+	android:name
+		ADDED from /home/pranith/.pub-cache/hosted/pub.dev/file_preview-1.1.6/android/src/main/AndroidManifest.xml:9:19-52
+uses-sdk
+INJECTED from /home/pranith/.pub-cache/hosted/pub.dev/file_preview-1.1.6/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/pranith/.pub-cache/hosted/pub.dev/file_preview-1.1.6/android/src/main/AndroidManifest.xml
+INJECTED from /home/pranith/.pub-cache/hosted/pub.dev/file_preview-1.1.6/android/src/main/AndroidManifest.xml
+INJECTED from /home/pranith/.pub-cache/hosted/pub.dev/file_preview-1.1.6/android/src/main/AndroidManifest.xml
+INJECTED from /home/pranith/.pub-cache/hosted/pub.dev/file_preview-1.1.6/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/pranith/.pub-cache/hosted/pub.dev/file_preview-1.1.6/android/src/main/AndroidManifest.xml
+		ADDED from /home/pranith/.pub-cache/hosted/pub.dev/file_preview-1.1.6/android/src/main/AndroidManifest.xml
+		INJECTED from /home/pranith/.pub-cache/hosted/pub.dev/file_preview-1.1.6/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/pranith/.pub-cache/hosted/pub.dev/file_preview-1.1.6/android/src/main/AndroidManifest.xml
+		ADDED from /home/pranith/.pub-cache/hosted/pub.dev/file_preview-1.1.6/android/src/main/AndroidManifest.xml
+		INJECTED from /home/pranith/.pub-cache/hosted/pub.dev/file_preview-1.1.6/android/src/main/AndroidManifest.xml

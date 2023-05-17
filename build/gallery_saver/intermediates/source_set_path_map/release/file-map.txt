@@ -1,0 +1,15 @@
+carnegietechnologies.gallery_saver-core-1.6.0-0 /home/pranith/.gradle/caches/transforms-3/1141b72fb8be4e566e7814849b1aa3a2/transformed/core-1.6.0/res
+carnegietechnologies.gallery_saver-jetified-window-1.0.0-beta04-1 /home/pranith/.gradle/caches/transforms-3/40ff8c014bc3b03149787e1d45a42dea/transformed/jetified-window-1.0.0-beta04/res
+carnegietechnologies.gallery_saver-coordinatorlayout-1.0.0-2 /home/pranith/.gradle/caches/transforms-3/9a16fab522f969c3bed425ffb75ad872/transformed/coordinatorlayout-1.0.0/res
+carnegietechnologies.gallery_saver-media-1.0.0-3 /home/pranith/.gradle/caches/transforms-3/a4874a1c1fd763c2bb3cb8d3a455804d/transformed/media-1.0.0/res
+carnegietechnologies.gallery_saver-jetified-annotation-experimental-1.1.0-4 /home/pranith/.gradle/caches/transforms-3/a6362f1fb79a6245a27920bb99ff99c3/transformed/jetified-annotation-experimental-1.1.0/res
+carnegietechnologies.gallery_saver-jetified-core-ktx-1.5.0-5 /home/pranith/.gradle/caches/transforms-3/bafa002c52fcf49e0de0650ba6ac8a05/transformed/jetified-core-ktx-1.5.0/res
+carnegietechnologies.gallery_saver-jetified-window-java-1.0.0-beta04-6 /home/pranith/.gradle/caches/transforms-3/ed438543a8e9ffa856a2b095c92f0ea3/transformed/jetified-window-java-1.0.0-beta04/res
+carnegietechnologies.gallery_saver-main-7 /home/pranith/.pub-cache/hosted/pub.dev/gallery_saver-2.3.2/android/src/main/res
+carnegietechnologies.gallery_saver-release-8 /home/pranith/.pub-cache/hosted/pub.dev/gallery_saver-2.3.2/android/src/release/res
+carnegietechnologies.gallery_saver-pngs-9 /home/pranith/Desktop/mpc project/mpc/build/gallery_saver/generated/res/pngs/release
+carnegietechnologies.gallery_saver-resValues-10 /home/pranith/Desktop/mpc project/mpc/build/gallery_saver/generated/res/resValues/release
+carnegietechnologies.gallery_saver-rs-11 /home/pranith/Desktop/mpc project/mpc/build/gallery_saver/generated/res/rs/release
+carnegietechnologies.gallery_saver-mergeReleaseResources-12 /home/pranith/Desktop/mpc project/mpc/build/gallery_saver/intermediates/incremental/release/mergeReleaseResources/merged.dir
+carnegietechnologies.gallery_saver-mergeReleaseResources-13 /home/pranith/Desktop/mpc project/mpc/build/gallery_saver/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+carnegietechnologies.gallery_saver-merged_res-14 /home/pranith/Desktop/mpc project/mpc/build/gallery_saver/intermediates/merged_res/release

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "558285359810",
+    "project_id": "mpc-project-47abf",
+    "storage_bucket": "mpc-project-47abf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558285359810:android:98ecc756cde8c0a6b0895b",
+        "android_client_info": {
+          "package_name": "com.example.mpc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558285359810-qhhljon8k08qn8jl8vc76jf61uolengr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVzNCHb3VeMSrsgqjkeSptdgWx2K6Qyzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558285359810-qhhljon8k08qn8jl8vc76jf61uolengr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

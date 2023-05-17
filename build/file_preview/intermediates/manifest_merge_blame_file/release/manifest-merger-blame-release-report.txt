@@ -1,0 +1,28 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.gstory.file_preview" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="16"
+6-->/home/pranith/.pub-cache/hosted/pub.dev/file_preview-1.1.6/android/src/main/AndroidManifest.xml
+7        android:targetSdkVersion="16" />
+7-->/home/pranith/.pub-cache/hosted/pub.dev/file_preview-1.1.6/android/src/main/AndroidManifest.xml
+8
+9    <application>
+9-->/home/pranith/.pub-cache/hosted/pub.dev/file_preview-1.1.6/android/src/main/AndroidManifest.xml:3:5-10:19
+10        <service
+10-->/home/pranith/.pub-cache/hosted/pub.dev/file_preview-1.1.6/android/src/main/AndroidManifest.xml:4:9-8:19
+11            android:name="com.tencent.smtt.export.external.DexClassLoaderProviderService"
+11-->/home/pranith/.pub-cache/hosted/pub.dev/file_preview-1.1.6/android/src/main/AndroidManifest.xml:5:13-90
+12            android:label="dexopt"
+12-->/home/pranith/.pub-cache/hosted/pub.dev/file_preview-1.1.6/android/src/main/AndroidManifest.xml:6:13-35
+13            android:process=":dexopt" >
+13-->/home/pranith/.pub-cache/hosted/pub.dev/file_preview-1.1.6/android/src/main/AndroidManifest.xml:7:13-38
+14        </service>
+15
+16        <activity android:name="com.gstory.file_preview.X5WebviewActivity" />
+16-->/home/pranith/.pub-cache/hosted/pub.dev/file_preview-1.1.6/android/src/main/AndroidManifest.xml:9:9-54
+16-->/home/pranith/.pub-cache/hosted/pub.dev/file_preview-1.1.6/android/src/main/AndroidManifest.xml:9:19-52
+17    </application>
+18
+19</manifest>

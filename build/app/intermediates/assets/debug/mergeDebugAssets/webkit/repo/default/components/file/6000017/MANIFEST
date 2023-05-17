@@ -1,0 +1,1 @@
+{"NAME":"file","ENTRY":"file_dex.jar:com.tencent.tbs.ug.component.TbsReaderEntry","VERSIONCODE":6000017,"VERSIONNAME":"6000017","FILES":[{"PATH":"file_resource.apk"},{"PATH":"file_cp_resources.apk"},{"PATH":"file_dex.jar","PARENT":"BaseComponent:BaseComponent_dex.jar"}],"NO_SEALED":"false","RESOURCE":"file_resource.apk"}
